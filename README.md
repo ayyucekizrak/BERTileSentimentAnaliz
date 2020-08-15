@@ -47,3 +47,16 @@ Daha fazla bilgi için:
 [BERT için Kaynak Doküman](https://characters.fandom.com/wiki/Bert_(Sesame_Street)
 <img src="https://i.hizliresim.com/SghEUo.png" width="500">
 
+
+### Veriyi keşfetme ve Önişlemler
+
+SMILE Twitter veri setini kullanacağız.
+
+<img src="https://images.unsplash.com/photo-1585507252242-11fe632c26e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
+
+Resim Kaynak: [Tengyart](https://unsplash.com/@tengyart) / Unsplash
+
+
+Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion veri kümesi. figshare.
+
+Veri kümesi: https://doi.org/10.6084/m9.figshare.3187909.v2
