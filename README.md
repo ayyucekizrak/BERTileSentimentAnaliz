@@ -13,6 +13,9 @@
 - Derin Öğrenme ve Dil Modellerinin temelleri bilgisi (özellikle BERT) 
 
 ## GİRİŞ
+<img src="https://images.unsplash.com/photo-1585507252242-11fe632c26e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
+
+Resim Kaynak: [Tengyart](https://unsplash.com/@tengyart) / Unsplash
 
 ### Terminolojiler
 
@@ -37,26 +40,17 @@ Uzun süreli kelimeler arasında bağımlılıkları belirleme yeteneği ve baş
 **Harika bir Türkçe Kaynak: [Susam Sokağı’ndan Doğal Dil İşlemeye](https://medium.com/basakbuluz/susam-soka%C4%9F%C4%B1ndan-do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-7cc37903b5d4)**
 
 ---
+### SMILE Twitter veri seti
+Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion veri kümesi. figshare.
 
+Veri kümesi: https://doi.org/10.6084/m9.figshare.3187909.v2
 Daha fazla bilgi için:
 
 [HuggingFace Kaynak Dokümanı](https://huggingface.co/transformers/model_doc/bert.html)
-
----
 
 [BERT için Kaynak Doküman](https://characters.fandom.com/wiki/Bert_(Sesame_Street)
 <img src="https://i.hizliresim.com/SghEUo.png" width="500">
 
 
-### Veriyi keşfetme ve Önişlemler
-
-SMILE Twitter veri setini kullanacağız.
-
-<img src="https://images.unsplash.com/photo-1585507252242-11fe632c26e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" width="500">
-
-Resim Kaynak: [Tengyart](https://unsplash.com/@tengyart) / Unsplash
 
 
-Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion veri kümesi. figshare.
-
-Veri kümesi: https://doi.org/10.6084/m9.figshare.3187909.v2
