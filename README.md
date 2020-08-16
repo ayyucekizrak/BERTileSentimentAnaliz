@@ -1,6 +1,5 @@
 # <h1 align=center> BERT ile Sentiment Analizi </h1>
 
----
 <h3 align=center>(BERT: Bidirectional Encoder Representations for Transformers)</h3>
 
 ---
