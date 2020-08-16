@@ -13,6 +13,8 @@
 
 **Harika bir Türkçe Kaynak: [Susam Sokağı’ndan Doğal Dil İşlemeye](https://medium.com/basakbuluz/susam-soka%C4%9F%C4%B1ndan-do%C4%9Fal-dil-i%CC%87%C5%9Flemeye-7cc37903b5d4) - Yazan: Başak Buluz Kömeçoğlu**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/BERTileSentimentAnaliz/blob/master/BERT_ile_SentimentAnaliz/BERT_ile_Sentiment_Analiz.ipynb) Kodları buradan açabilirsiniz.
+
 ---
 
 ## GİRİŞ
